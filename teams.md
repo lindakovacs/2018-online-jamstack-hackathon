@@ -43,7 +43,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Harshil Agrawal (@harshil1712)
   - Cremona Matei (@cremzoo)
   - Abhishek Yadav (@phoenixabhishek)
-  - Lakshmi Chandan (@chandana)
+  - Lakshmi Chandana (@chandana)
   - Linda Kovacs (@lindakovacs)
 
 * **Seeking Teammates**: No
