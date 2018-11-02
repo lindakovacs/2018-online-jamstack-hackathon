@@ -35,7 +35,7 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-# Hackathon Project Name (Comming soon!) - TeamHacky
+# Hackathon Project Name (Coming soon!) - TeamHacky
 ### This project exists solely to show you how to edit this document. Fork this repo and make a PR to add your team at the BOTTOM of this list -- below the last 3 stars! Don't forget to include the 3 stars in your entry. Don't forget to `git pull origin master` and `git rebase master` into your feature branch before you push to origin!
 
 * **Teammates**:
