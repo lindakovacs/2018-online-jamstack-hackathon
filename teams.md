@@ -41,8 +41,9 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * **Teammates**:
   - Ronique Ricketts (@NiQ)
   - Harshil Agrawal (@harshil1712)
-  - Cremanoa Matei (@cremzoo)
+  - Cremona Matei (@cremzoo)
   - Abhishek Yadav (@phoenixabhishek)
+  - Lakshmi Chandan (@chandana)
   - Linda Kovacs (@lindakovacs)
 
 * **Seeking Teammates**: No
