@@ -36,8 +36,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 # MagiKart
 ### Creating an eCommerce site using the Gatsby modern framework for blazing fast websites, hosted in GitHub, deployed with Netlify an all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS. This e-portal is including Shopping cart,  admin control for viewing the order information product information, New entry of product, edit the specified product, delete the product, User login password, new admin registration, data fetching from database, feedback form/rating, searching items using filters.
 
-Don't forget to `git pull origin master` and `git rebase master` into your feature branch before you push to origin!
-
 * **Teammates of TeamHacky**:
   - Ronique Ricketts (@NiQ)
   - Harshil Agrawal (@harshil1712)
