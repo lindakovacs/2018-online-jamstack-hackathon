@@ -33,12 +33,12 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-***
+# MagiKart
+### Creating an eCommerce site using the Gatsby modern framework for blazing fast websites, hosted in GitHub, deployed with Netlify an all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS. This e-portal is including Shopping cart,  admin control for viewing the order information product information, New entry of product, edit the specified product, delete the product, User login password, new admin registration, data fetching from database, feedback form/rating, searching items using filters.
 
-# Hackathon Project Name (Coming soon!) - TeamHacky
-### This project exists solely to show you how to edit this document. Fork this repo and make a PR to add your team at the BOTTOM of this list -- below the last 3 stars! Don't forget to include the 3 stars in your entry. Don't forget to `git pull origin master` and `git rebase master` into your feature branch before you push to origin!
+Don't forget to `git pull origin master` and `git rebase master` into your feature branch before you push to origin!
 
-* **Teammates**:
+* **Teammates of TeamHacky**:
   - Ronique Ricketts (@NiQ)
   - Harshil Agrawal (@harshil1712)
   - Cremona Matei (@cremzoo)
@@ -47,6 +47,6 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
   - Linda Kovacs (@lindakovacs)
 
 * **Seeking Teammates**: No
-* [GitHub URL](https://github.com/your-profile/your-project-name)
+* [GitHub URL](https://github.com/harshil1712/gatsby-store-hackathon)
 
 ***
